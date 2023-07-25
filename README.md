@@ -1,4 +1,6 @@
 # numerical-methods
+**MAKE SURE YOUR READ THE `COLLABORATE.md` file before starting**
+
 Basic rundown of the project: 
 ### 0. Introduction
 Quick demo of python and playthrough using some examples.
