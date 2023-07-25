@@ -3,7 +3,7 @@
 
 Basic rundown of the project: 
 ### 0. Introduction
-Quick demo of python and playthrough using some examples.
+    - Quick demo of python and playthrough using some examples.
 
 ### 1. Crash Course in Python
     - definition of python
