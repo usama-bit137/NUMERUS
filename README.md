@@ -1,6 +1,43 @@
 # numerical-methods
-This repository contains material on numerical methods for Physicists written by Usama Aqeel. This is an interactive textbook which allows you to read and perform calculations in Jupyter Notebooks. All too often, numerical methods are taught in a theoretical manner and calculation seems like an afterthought.They are often confusing when there isn't a way for you to tinker with a program and get a feel for how a change in an input induces a change in the output. I want to stress the importance of visual representations and how plots ultimately tells a story and complements the thoughts that you are communicating. 
+Basic rundown of the project: 
+### 0. Introduction
+Quick demo of python and playthrough using some examples.
 
-The purpose of this project is to make a free resource available for students to dig their teeth into problems. With any skill, practice builds discipline, leading to an understanding, which leads to intuition and ultimately mastery. Numerical methods are no different. They can be understood and mastered. This is my goal. 
+### 1. Crash Course in Python
+    - definition of python
+    - data types (`int`, `string`, `dict`...)
+    - definitions of data-types and important methods
+    - conditional logic, loops (`for`, `while`), useful operators etc.
+    - methods functions
+    - classes
+    - OOP (object-oriented programming) ? 
 
-These notes are primarily written in Jupyter Notebook in Python3, however, you are encouraged to complete the problems in the language of their chosing. Jupyter is just a personal choice for us. 
+### 2. Algebraic & Transcendental Equations
+    - Rearranging equations
+    - linear interpolation
+    - Binary Chopping
+    - Newton-Raphson Method
+    - Iteration
+
+### 3. Numerical Integration
+    - Trapezium Rule
+    - Simpson's Rule
+    - Monte-Carlo Method
+    - Finite-Difference
+    - Differential Equations
+    - Difference Equations
+    - Taylor Series Solution
+    - Runge-Kutta Method
+    - Isoclines
+    - Higher-order Equations
+    - PDES?
+
+### 4. Important python packages (`numpy`, `matplotlib`, `scipy`,`pandas`...)
+    - introduction to numpy and matplotlib (pyplot) docs
+    - using scipy for integration and differentiation
+
+### 5. Data Structures and Algorithms
+
+### Some projects for fun...
+    - we can figure some cool stuff out later.
+    - 
